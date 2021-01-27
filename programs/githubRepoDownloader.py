@@ -138,10 +138,10 @@ for repositorie in githubUserRepos:
 
 print("")
 print("**************************************************************************")
-print(str(githubUser) + " Repositories Cloned")
+print(str(githubUsername) + " Repositories Cloned")
 print("**************************************************************************")
 print("")
-print("[INFO] " + str(githubUser) + " repositories cloned correctly.")
+print("[INFO] " + str(githubUsername) + " repositories cloned correctly.")
 print("")
 
 # Get end time
