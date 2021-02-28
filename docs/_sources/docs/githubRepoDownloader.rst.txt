@@ -1,0 +1,7 @@
+githubRepoDownloader module
+===========================
+
+.. automodule:: githubRepoDownloader
+   :members:
+   :undoc-members:
+   :show-inheritance:
