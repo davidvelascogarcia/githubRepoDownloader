@@ -11,6 +11,8 @@
 
 `githubRepoDownloader` is a simple script in `python` language that seek for GitHub user repositories and clone public repositories from the user.
 
+Documentation available on [docs](https://davidvelascogarcia.github.io/githubRepoDownloader)
+
 ## Running Software
 
 1. Run [githubRepoDownloader.py](./programs).
